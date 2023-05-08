@@ -62,4 +62,4 @@ I'm always open to new challenges and collaborations, so don't hesitate to reach
 <a href="http://www.github.com/4lfant"><img align="center" src="https://github-readme-stats.vercel.app/api?username=4lfant&show_icons=true&locale=en" alt="4lfant" /></a>
 
 <!-- Profile views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4lfant&label=Profile%20views&style=flat" alt="4lfant" /> </p>
+<p align="left" style="visibility: hidden;"> <img src="https://komarev.com/ghpvc/?username=4lfant&label=Profile%20views&style=flat" alt="4lfant" /> </p>
