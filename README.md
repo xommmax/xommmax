@@ -9,7 +9,7 @@ I previously worked as Android and Flutter Mobile Developer in such companies as
 
 I'm always open to new challenges and collaborations, so don't hesitate to reach out!
 
-<\br>
+</br>
 
 - 💬 Ask me about **Flutter, Dart and everything regarding mobile development, especially cross-platform**
 - 📫 You can contact me via **[Mail](mailto:4lfant@gmail.com)**
