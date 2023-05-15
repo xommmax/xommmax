@@ -15,7 +15,7 @@ I'm always open to new challenges and collaborations, so don't hesitate to reach
 - 📄 Know more about my experiences: **[CV](https://cv.djinni.co/ef/14d691f0c05c73e592e060fd21dea0/CV._Max_Khobotin.pdf)**
 - 🧠 I’m currently learning Solidity
 - 🌍  I'm based in Ukraine 🇺🇦
-- ⚡ Fun fact: **I swim 100m in 2:04**
+- ⚡ Fun fact: **I swim 100m in 1:43**
 
 ### Languages and Tools:
 <p align="left">
