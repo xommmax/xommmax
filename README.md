@@ -12,7 +12,7 @@ I'm always open to new challenges and collaborations, so don't hesitate to reach
 
 - 💬 Ask me about **Flutter, Dart and everything regarding mobile development, especially cross-platform**
 - 📫 You can contact me via **[Mail](mailto:4lfant@gmail.com)**
-- 📄 Know more about my experiences: **[CV](https://cv.djinni.co/ef/14d691f0c05c73e592e060fd21dea0/CV._Max_Khobotin.pdf)**
+- 📄 Know more about my experiences: **[CV](https://cv.djinni.co/58/23f4ff192065758e8aa21d439ab338/CV._Max_Khobotin.pdf)**
 - 🧠 I’m currently learning Solidity
 - 🌍 I'm based in Ukraine 🇺🇦
 - ⚡ Interesting fact: **I swim 100m in 1:43**
