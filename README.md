@@ -59,7 +59,7 @@ I'm always open to new challenges and collaborations, so don't hesitate to reach
 <!-- Most Used Languages <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4lfant&show_icons=true&locale=en&layout=compact" alt="4lfant" /></p> -->
 
 ### My GitHub Stats:
-<a href="http://www.github.com/4lfant"><img align="center" src="https://github-readme-stats.vercel.app/api?username=4lfant&show_icons=true&locale=en" alt="4lfant"/></a>
+<a href="http://www.github.com/4lfant"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=4lfant&show_icons=true&locale=en" alt="4lfant"/></a>
 
 <!-- Profile views -->
 <details>
