@@ -51,9 +51,9 @@ I'm always open to new challenges and collaborations, so don't hesitate to reach
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/3lfant" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="3lfant" height="32" width="32" /></a>   
-<a href="https://www.github.com/4lfant" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="mailto:4lfant@gmail.com" target="blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/13089900/236945016-3e50b226-fe78-4057-9648-27b5fe75801d.png" width="32" height="32" /></a> 
+<a href="https://linkedin.com/in/xommmax" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="3lfant" height="32" width="32" /></a>   
+<a href="https://www.github.com/xommmax" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="mailto:xommmax.dev@gmail.com" target="blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/13089900/236945016-3e50b226-fe78-4057-9648-27b5fe75801d.png" width="32" height="32" /></a> 
 </p>
 
 <!-- Most Used Languages <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4lfant&show_icons=true&locale=en&layout=compact" alt="4lfant" /></p> -->
