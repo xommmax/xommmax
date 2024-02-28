@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Max
 
-I'm product-minded Mobile Software Engineer with over 7 years of experience, building (mostly from scratch) complex applications across diverse industries: FinTech, SaaS, Blockchain, Social Networking, and E-commerce.
+I'm product-minded Mobile Software Engineer with over 8 years of experience, building (mostly from scratch) complex applications across diverse industries: FinTech, SaaS, Blockchain, Social Networking, and E-commerce.
 I'm expert in Flutter mobile development with a strong background in building native Android applications.
 
 I previously worked as Android and Flutter Mobile Developer in such companies as MinexSystems, Backendless and Elopage. And even tried to launch my own product, Spiral - social space centered around users, their personalities and interests; but unfortunately could not succeed.
